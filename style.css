@@ -1,0 +1,24 @@
+ 
+
+h1,h2,h3 ,body{
+    font-family: Lobster,Monospace;
+  }
+p,li{
+   font-family:sanserif;
+  font-size:18px;
+  
+}
+.other-color{
+  background-color:white;
+}
+
+#target1{
+   border-width:10px;
+  border-radius:50%;
+ 
+}
+/*.displayed {
+    display: block;
+    margin-top:10%;
+    margin-left: auto;
+    margin-right: auto; }*/
